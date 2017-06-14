@@ -1,0 +1,5 @@
+com\nimohunter\mvcdemo\service\login\UserService.class
+com\nimohunter\mvcdemo\controller\UserLoginController.class
+com\nimohunter\mvcdemo\controller\UserRegisterController.class
+com\nimohunter\mvcdemo\service\login\UserServiceImpl.class
+com\nimohunter\mvcdemo\controller\HelloMvcController.class
